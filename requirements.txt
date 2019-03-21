@@ -1,0 +1,4 @@
+airtable-python-wrapper
+selenium
+requests
+beautifulsoup4
